@@ -4,8 +4,8 @@
 💻 Passionate about Web Development and AI  
 📚 Currently learning React, Tailwind, and OpenAI APIs  
 🎯 Goals: Build smart and responsive web applications  
-🌐 Portfolio: [nitesh-portfolio.com](https://yourportfolio.link)  
-📫 Reach me: [LinkedIn](https://linkedin.com/in/yourusername)
+🌐 Portfolio: [nitesh-portfolio.com](https://niteshkumar-portfolio.vercel.app/) 
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-gond-8b67a0269/)
 
 ## 🛠️ Technologies and Tools
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
