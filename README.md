@@ -49,7 +49,7 @@
 ### 🌱 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="_blank">
+  <a href="https://www.linkedin.com/in/nitesh-kumar-gond-8b67a0269/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="mailto:niteshkumar42655@gmail.com" target="_blank">
