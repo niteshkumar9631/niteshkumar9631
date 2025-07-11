@@ -1,18 +1,66 @@
-# Hi there 👋, I'm Nitesh Kumar
+<h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
+<h3 align="center">🚀 Full Stack Developer | 👨‍💻 AI & ML Enthusiast | 💻 Open Source Contributor</h3>
 
-🚀 B.Tech in Computer Engineering  
-💻 Passionate about Web Development and AI  
-📚 Currently learning React, Tailwind, and OpenAI APIs  
-🎯 Goals: Build smart and responsive web applications  
-🌐 Portfolio: [nitesh-portfolio.com](https://niteshkumar-portfolio.vercel.app/) 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-gond-8b67a0269/)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=00BFFF&center=true&vCenter=true&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+Tool+Builder;Learning+DSA+%26+ML" />
+</p>
 
-## 🛠️ Technologies and Tools
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+---
 
-## 📊 GitHub Stats
-![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=niteshkumar9631&show_icons=true&theme=radical)
+### 🔥 About Me
+- 🎓 B.Tech in Computer Engineering  
+- 💡 Currently working on: **Real-Time Object Detection with YOLOv5**  
+- 🛠️ Tech Stack: `React`, `Node.js`, `Express`, `MongoDB`, `TailwindCSS`, `OpenAI API`, `Supabase`, `Flutter`, `Firebase`  
+- 📫 How to reach me: **[nitesh.kumar@example.com](mailto:nitesh.kumar@example.com)**  
+- 📘 Learning: `C++ DSA`, `AI in Web Dev`, `MERN`, `DevOps Basics`  
+- 🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)  
+
+---
+
+### 💼 Projects
+
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| 🧠 **AI Image Generator** | Generate images using OpenAI’s DALL·E API in real-time | React, OpenAI API | [GitHub](https://github.com/niteshkumar9631/AIImageGenerator) |
+| ☁️ **Weather App** | Real-time weather updates using OpenWeatherMap API | React, CSS | [GitHub](https://github.com/niteshkumar9631/WeatherApp) |
+| 🛒 **E-commerce Website** | Fully responsive e-commerce frontend | HTML, CSS, JS | [GitHub](https://github.com/...) |
+| 📝 **Blog App** | MERN-based blog with JWT Auth & Cloudinary | React, Express, MongoDB | [GitHub](https://github.com/...) |
+| 🎮 **Snake Game** | Classic snake game using JS Canvas | HTML, JS | [GitHub](https://github.com/...) |
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,cpp,python,flutter,dart,firebase,vercel,github" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niteshkumar9631&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niteshkumar9631&theme=tokyonight" />
+</p>
+
+---
+
+### 🌱 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nitesh.kumar@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> “Consistency and curiosity are the keys to mastering development.”
+
