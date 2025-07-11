@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer | 👨‍💻 AI & ML Enthusiast | 💻 Open Source Contributor</h3>
+<h3 align="center"> Full Stack Developer |  AI & ML Enthusiast |  Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=00BFFF&center=true&vCenter=true&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+Tool+Builder;Learning+DSA+%26+ML" />
@@ -11,9 +11,9 @@
 - 🎓 B.Tech in Computer Engineering  
 - 💡 Currently working on: **Real-Time Object Detection with YOLOv5**  
 - 🛠️ Tech Stack: `React`, `Node.js`, `Express`, `MongoDB`, `TailwindCSS`, `OpenAI API`, `Supabase`, `Flutter`, `Firebase`  
-- 📫 How to reach me: **[nitesh.kumar@example.com](mailto:nitesh.kumar@example.com)**  
+- 📫 How to reach me: **[niteshkumar4255@gmail.com](mailto:niteshkumar42655@gmail.com)**  
 - 📘 Learning: `C++ DSA`, `AI in Web Dev`, `MERN`, `DevOps Basics`  
-- 🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)  
+- 🌐 Portfolio: [https://my-portfolio-link.com](https://niteshkumar-portfolio.vercel.app/) 
 
 ---
 
@@ -21,11 +21,11 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| 🧠 **AI Image Generator** | Generate images using OpenAI’s DALL·E API in real-time | React, OpenAI API | [GitHub](https://github.com/niteshkumar9631/AIImageGenerator) |
-| ☁️ **Weather App** | Real-time weather updates using OpenWeatherMap API | React, CSS | [GitHub](https://github.com/niteshkumar9631/WeatherApp) |
-| 🛒 **E-commerce Website** | Fully responsive e-commerce frontend | HTML, CSS, JS | [GitHub](https://github.com/...) |
-| 📝 **Blog App** | MERN-based blog with JWT Auth & Cloudinary | React, Express, MongoDB | [GitHub](https://github.com/...) |
-| 🎮 **Snake Game** | Classic snake game using JS Canvas | HTML, JS | [GitHub](https://github.com/...) |
+| 🛒 **E-commerce Website** | Fully responsive e-commerce  | MERN Stack | [GitHub](https://github.com/niteshkumar9631/E-commerce) |
+| 📝 **Blog App** | MERN-based blog with JWT Auth & Cloudinary | React, Express, MongoDB | [GitHub](https://github.com/niteshkumar9631/BlogApp) |
+| ☁️ **Weather App** | Real-time weather updates using OpenWeatherMap API | React, TailwindCSS | [GitHub](https://github.com/niteshkumar9631/WeatherApp) |
+| 📝 **ToDo App** | A simple and responsive ToDo App | React.js. | [GitHub](https://github.com/niteshkumar9631/ToDoApp?tab=readme-ov-file)|
+| 🎮 **Tic Tac Toe** | A simple and interactive Tic Tac Toe game | React.js. | [GitHub](https://github.com/niteshkumar9631/TicTocToe)
 
 ---
 
