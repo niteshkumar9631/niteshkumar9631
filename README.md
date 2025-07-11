@@ -19,10 +19,10 @@
 
 ### 💼 Projects
 
-| Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| 🛒 **E-commerce Website** | Fully responsive e-commerce  | MERN Stack | [GitHub](https://github.com/niteshkumar9631/E-commerce) |
-| 📝 **Blog App** | MERN-based blog with JWT Auth & Cloudinary | React, Express, MongoDB | [GitHub](https://github.com/niteshkumar9631/BlogApp) |
+| Project | Description | Tech Stack | Link | | Live |
+|--------|-------------|------------|------|------|
+| 🛒 **E-commerce Website** | Fully responsive e-commerce  | MERN Stack | [GitHub](https://github.com/niteshkumar9631/E-commerce) | [Live](https://e-commerce-frontend-ten-rust.vercel.app/)
+| 📝 **Blog App** | MERN-based blog with JWT Auth & Cloudinary | React, Express, MongoDB | [GitHub](https://github.com/niteshkumar9631/BlogApp) | [Live](https://blog-app-frontend-murex-three.vercel.app/)
 | ☁️ **Weather App** | Real-time weather updates using OpenWeatherMap API | React, TailwindCSS | [GitHub](https://github.com/niteshkumar9631/WeatherApp) |
 | 📝 **ToDo App** | A simple and responsive ToDo App | React.js. | [GitHub](https://github.com/niteshkumar9631/ToDoApp?tab=readme-ov-file)|
 | 🎮 **Tic Tac Toe** | A simple and interactive Tic Tac Toe game | React.js. | [GitHub](https://github.com/niteshkumar9631/TicTocToe)
@@ -49,14 +49,17 @@
 ### 🌱 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="mailto:nitesh.kumar@example.com" target="_blank">
+  <a href="mailto:niteshkumar42655@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/your-twitter" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/____nitesh_009/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
   </a>
 </p>
 
