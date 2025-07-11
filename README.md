@@ -19,10 +19,10 @@
 
 ### 💼 Projects
 
-| Project | Description | Tech Stack | Link | | Live |
-|--------|-------------|------------|------|------|
-| 🛒 **E-commerce Website** | Fully responsive e-commerce  | MERN Stack | [GitHub](https://github.com/niteshkumar9631/E-commerce) | [Live](https://e-commerce-frontend-ten-rust.vercel.app/)
-| 📝 **Blog App** | MERN-based blog with JWT Auth & Cloudinary | React, Express, MongoDB | [GitHub](https://github.com/niteshkumar9631/BlogApp) | [Live](https://blog-app-frontend-murex-three.vercel.app/)
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| 🛒 **E-commerce Website** | Fully responsive e-commerce  | MERN Stack | [GitHub](https://github.com/niteshkumar9631/E-commerce) |
+| 📝 **Blog App** | MERN-based blog with JWT Auth & Cloudinary | React, Express, MongoDB | [GitHub](https://github.com/niteshkumar9631/BlogApp) | 
 | ☁️ **Weather App** | Real-time weather updates using OpenWeatherMap API | React, TailwindCSS | [GitHub](https://github.com/niteshkumar9631/WeatherApp) |
 | 📝 **ToDo App** | A simple and responsive ToDo App | React.js. | [GitHub](https://github.com/niteshkumar9631/ToDoApp?tab=readme-ov-file)|
 | 🎮 **Tic Tac Toe** | A simple and interactive Tic Tac Toe game | React.js. | [GitHub](https://github.com/niteshkumar9631/TicTocToe)
