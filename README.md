@@ -40,8 +40,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niteshkumar9631&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niteshkumar9631&theme=tokyonight" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=niteshkumar9631&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/><br/>
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niteshkumar9631&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -50,18 +53,19 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nitesh-kumar-gond-8b67a0269/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="mailto:niteshkumar42655@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" />
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://x.com/___nitesh_009" />
+  <a href="https://x.com/___nitesh_009" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/____nitesh_009/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
