@@ -45,7 +45,7 @@
   <br><br>
 
   <!-- GitHub Streak Stats (FIXED LINK) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niteshkumar9631&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niteshkumar9631&theme=tokyonight" alt="GitHub Streak" />
   <br><br>
 
   <!-- Top Languages -->
