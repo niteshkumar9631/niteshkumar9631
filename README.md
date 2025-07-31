@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" />
+    <img src="https://x.com/___nitesh_009" />
   </a>
   <a href="https://www.instagram.com/____nitesh_009/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
