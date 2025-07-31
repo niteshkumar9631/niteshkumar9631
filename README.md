@@ -44,14 +44,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=niteshkumar9631&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br><br>
 
-  <!-- GitHub Streak Stats (working link) -->
-  <img src="https://streak-stats.demolab.com?user=niteshkumar9631&theme=tokyonight" alt="GitHub Streak" />
+  <!-- GitHub Streak Stats (FIXED LINK) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niteshkumar9631&theme=tokyonight" alt="GitHub Streak" />
   <br><br>
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshkumar9631&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 
 ---
 
