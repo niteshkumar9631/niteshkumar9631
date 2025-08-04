@@ -26,7 +26,7 @@
 | ☁️ **Weather App** | Real-time weather updates using OpenWeatherMap API | React, TailwindCSS | [GitHub](https://github.com/niteshkumar9631/WeatherApp) |
 | 📝 **ToDo App** | A simple and responsive ToDo App | React.js. | [GitHub](https://github.com/niteshkumar9631/ToDoApp?tab=readme-ov-file)|
 | 🎮 **Tic Tac Toe** | A simple and interactive Tic Tac Toe game | React.js. | [GitHub](https://github.com/niteshkumar9631/TicTocToe) |
-| 🤖 **AI Career Mentor** |AI Career Mentor is a web application powered by Google's Gemini API | Reat.js | [GitHub](https://github.com/niteshkumar9631/ai-career-mentor) |
+| 🤖 **AI Career Mentor** |AI Career Mentor is a web application powered by Google's Gemini API | React.js | [GitHub](https://github.com/niteshkumar9631/ai-career-mentor) |
 ---
 
 ### 🛠️ Languages and Tools
