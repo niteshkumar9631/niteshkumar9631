@@ -69,6 +69,12 @@
   <a href="https://www.instagram.com/____nitesh_009/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/niteshkumar42655/" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/niteshkumartgjb/" target="_blank">
+    <img alt="GeeksforGeeks" src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white" />
+  </a>
 </p>
 
 
