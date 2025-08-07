@@ -13,7 +13,7 @@
 - 🛠️ Tech Stack: `React`, `Node.js`, `Express`, `MongoDB`, `TailwindCSS`, `OpenAI API`, `Supabase`, `Flutter`, `Firebase`  
 - 📫 How to reach me: **[niteshkumar4255@gmail.com](mailto:niteshkumar42655@gmail.com)**  
 - 📘 Learning: `C++ DSA`, `AI in Web Dev`, `MERN`, `DevOps Basics`  
-- 🌐 Portfolio: [https://my-portfolio-link.com](https://niteshkumar-portfolio.vercel.app/) 
+- 🌐 Portfolio: [MyPortfolio](https://niteshkumar-portfolio.vercel.app/) 
 
 ---
 
