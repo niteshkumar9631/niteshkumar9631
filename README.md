@@ -9,7 +9,7 @@
 
 ### 🔥 About Me
 - 🎓 B.Tech in Computer Engineering  
-- 💡 Currently working on: **Real-Time Object Detection with YOLOv5**  
+- 💡 Currently working on: ** EdtechPlatform with AI Integration **  
 - 🛠️ Tech Stack: `React`, `Node.js`, `Express`, `MongoDB`, `TailwindCSS`, `AI`  
 - 📫 How to reach me: **[niteshkumar4255@gmail.com](mailto:niteshkumar42655@gmail.com)**  
 - 📘 Learning: `C++ DSA`, `AI in Web Dev`, `MERN`, `DevOps Basics`  
