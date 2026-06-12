@@ -1,81 +1,148 @@
-<h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
-<h3 align="center"> Full Stack Developer |  AI & ML Enthusiast |  Open Source Contributor</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nitesh+Kumar;Full+Stack+MERN+Developer;Real-Time+App+Builder;AI+%26+Web+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=00BFFF&center=true&vCenter=true&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+Tool+Builder;Learning+DSA+%26+ML" />
+  <b>🚀 Full Stack Developer &nbsp;|&nbsp; 🤖 AI Enthusiast &nbsp;|&nbsp; ⚡ Real-Time Systems</b>
 </p>
-
----
-
-### 🔥 About Me
-- 🎓 B.Tech in Computer Engineering  
-- 💡 Currently working on: ** Real Time Chat Application **  
-- 🛠️ Tech Stack: `React`, `Node.js`, `Express`, `MongoDB`, `TailwindCSS`, `AI`  
-- 📫 How to reach me: **[niteshkumar4255@gmail.com](mailto:niteshkumar42655@gmail.com)**  
-- 📘 Learning: `C++ DSA`, `AI in Web Dev`, `MERN`, `DevOps Basics`  
-- 🌐 Portfolio: [MyPortfolio](https://niteshkumar-portfolio.vercel.app/) 
-
----
-
-### 💼 Projects
-
-| Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| 🛒 **E-commerce Website** | Fully responsive e-commerce  | MERN Stack | [GitHub](https://github.com/niteshkumar9631/E-commerce) |
-| 📝 **Blog App** | MERN-based blog with JWT Auth & Cloudinary | React, Express, MongoDB | [GitHub](https://github.com/niteshkumar9631/BlogApp) | 
-| ☁️ **Weather App** | Real-time weather updates using OpenWeatherMap API | React, TailwindCSS | [GitHub](https://github.com/niteshkumar9631/WeatherApp) |
-| 📝 **ToDo App** | A simple and responsive ToDo App | React.js. | [GitHub](https://github.com/niteshkumar9631/ToDoApp?tab=readme-ov-file)|
-| 🎮 **Tic Tac Toe** | A simple and interactive Tic Tac Toe game | React.js. | [GitHub](https://github.com/niteshkumar9631/TicTocToe) |
-| 🤖 **AI Career Mentor** |AI Career Mentor is a web application powered by Google's Gemini API | React.js | [GitHub](https://github.com/niteshkumar9631/ai-career-mentor) |
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,cpp,python,flutter,dart,firebase,vercel,github" />
-</p>
-
----
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niteshkumar9631&show_icons=true" />
-  <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niteshkumar9631" />
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshkumar9631&layout=compact" />
+  <a href="https://niteshkumar-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nitesh-kumar-gond-8b67a0269/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:niteshkumar42655@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/niteshkumar42655/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🌱 Let's Connect
+## 👨‍💻 About Me
+
+```javascript
+const nitesh = {
+  degree:     "B.Tech CSE — Marwadi University, Rajkot (2026)",
+  role:       "Full Stack Developer (MERN)",
+  location:   "Rajkot, Gujarat 📍 | Open to Relocate (Delhi NCR / Remote)",
+  currently:  "Building real-time & AI-powered web apps",
+  learning:   ["DSA in C++", "DevOps Basics", "AI Integration in Web"],
+  funFact:    "I debug with console.log and I'm proud of it 😄"
+};
+```
+
+---
+
+## 🏆 Featured Projects
+
+### ⚡ QuickChat — Real-Time Chat Application
+> *The most feature-rich project in my portfolio*
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Features:** Real-time messaging • Typing indicators • Emoji picker • Image sharing • Message replies • Online/offline status • JWT Authentication
+
+🔗 [GitHub](https://github.com/niteshkumar9631/QuickChat) &nbsp;|&nbsp; 🌐 [Live Demo](https://quickchat-nitesh.onrender.com)
+
+---
+
+### 💼 Job Portal — Full Stack MERN App
+> *Full recruitment workflow: Job seekers + Recruiters + Admin*
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+**Features:** Job listings & search • Apply with resume • Recruiter dashboard • Admin panel • JWT Auth • Cloudinary file upload
+
+🔗 [GitHub](https://github.com/niteshkumar9631/job-portal) &nbsp;|&nbsp; 🌐 [Live Demo](https://job-portal-nitesh.vercel.app)
+
+---
+
+## 🗂️ Other Projects
+
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| 🤖 **AI Career Mentor** | Career path guide powered by Gemini API | React, Gemini API | [GitHub](https://github.com/niteshkumar9631/ai-career-mentor) |
+| 🛒 **E-commerce** | Full MERN store with Razorpay payments | MERN Stack | [GitHub](https://github.com/niteshkumar9631/E-commerce) |
+| 📝 **Blog App** | MERN blog with JWT auth & Cloudinary | React, Express, MongoDB | [GitHub](https://github.com/niteshkumar9631/BlogApp) |
+| ☁️ **Weather App** | Real-time weather using OpenWeatherMap | React, TailwindCSS | [GitHub](https://github.com/niteshkumar9631/WeatherApp) |
+| 🎓 **EdTech Platform** | Online learning platform | MERN Stack | [GitHub](https://github.com/niteshkumar9631/EdtechPlatform) |
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" />
+</p>
+
+**Backend & Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+**Tools & Others**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,cpp,python,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niteshkumar9631&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niteshkumar9631&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshkumar9631&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nitesh-kumar-gond-8b67a0269/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:niteshkumar42655@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" />
+  <a href="mailto:niteshkumar42655@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://x.com/___nitesh_009" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/____nitesh_009/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/niteshkumar42655/" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/niteshkumartgjb/" target="_blank">
-    <img alt="GeeksforGeeks" src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/niteshkumar42655/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://niteshkumar-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
-
 ---
 
-> “Consistency and curiosity are the keys to mastering development.”
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=niteshkumar9631&color=00BFFF&style=flat-square&label=Profile+Views" />
+</p>
 
+<p align="center">
+  <i>"Consistency and curiosity are the keys to mastering development."</i>
+</p>
