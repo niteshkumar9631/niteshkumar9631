@@ -29,7 +29,7 @@
 const nitesh = {
   degree:     "B.Tech CSE — Marwadi University, Rajkot (2026)",
   role:       "Full Stack Developer (MERN)",
-  location:   "Rajkot, Gujarat 📍 | Open to Relocate (Delhi NCR / Remote)",
+  location:   "New Delhi, India | Open to Relocate (Anywhere /Hybrid /Remote)",
   currently:  "Building real-time & AI-powered web apps",
   learning:   ["DSA in C++", "DevOps Basics", "AI Integration in Web"],
   funFact:    "I debug with console.log and I'm proud of it 😄"
@@ -70,15 +70,45 @@ const nitesh = {
 
 ---
 
+### 🤖 Career Mentor Pro — AI-Powered Career Guidance Platform
+> *Full-stack AI app with LLaMA 3.1, Google OAuth & persistent chat history*
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA_3.1-7B3F00?style=flat-square&logo=meta&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+**Features:** AI chat (LLaMA 3.1 via OpenRouter) • Chat history saved in DB • Google OAuth login • User profile with avatar • Dark/Light mode • Fully responsive
+
+🔗 [GitHub](https://github.com/niteshkumar9631/career-mentor-pro) &nbsp;|&nbsp; 🌐 [Live Demo](https://career-mentor-pro.vercel.app)
+
+---
+
+### 🛒 E-Commerce — Full Stack Shopping Platform
+> *Production-ready store with dual payment gateway integration*
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+**Features:** Product management • Shopping cart • User auth • Admin dashboard • Razorpay & Stripe payments • Responsive UI
+
+⭐ 4 stars &nbsp;|&nbsp; 🔗 [GitHub](https://github.com/niteshkumar9631/E-commerce) &nbsp;|&nbsp; 🌐 [Live Demo](https://e-commerce-frontend-ten-rust.vercel.app)
+
+---
+
 ## 🗂️ Other Projects
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
-| 🤖 **AI Career Mentor** | Career path guide powered by Gemini API | React, Gemini API | [GitHub](https://github.com/niteshkumar9631/ai-career-mentor) |
-| 🛒 **E-commerce** | Full MERN store with Razorpay payments | MERN Stack | [GitHub](https://github.com/niteshkumar9631/E-commerce) |
+| 🎓 **EdTech Platform** | Online learning platform | MERN Stack | [GitHub](https://github.com/niteshkumar9631/EdtechPlatform) |
 | 📝 **Blog App** | MERN blog with JWT auth & Cloudinary | React, Express, MongoDB | [GitHub](https://github.com/niteshkumar9631/BlogApp) |
 | ☁️ **Weather App** | Real-time weather using OpenWeatherMap | React, TailwindCSS | [GitHub](https://github.com/niteshkumar9631/WeatherApp) |
-| 🎓 **EdTech Platform** | Online learning platform | MERN Stack | [GitHub](https://github.com/niteshkumar9631/EdtechPlatform) |
 
 ---
 
